@@ -1,0 +1,14 @@
+net\towerwatch\gui\customitems\commands\tabCompletion.class
+net\towerwatch\gui\customitems\listeners\weapons\IntelligenceSword.class
+net\towerwatch\gui\customitems\listeners\weapons\RagnarokAxe.class
+net\towerwatch\gui\customitems\commands\giveItem.class
+net\towerwatch\gui\customitems\listeners\armors\HealthyArmor.class
+net\towerwatch\gui\customitems\CustomItems.class
+net\towerwatch\gui\customitems\listeners\tools\HastyPickaxe.class
+net\towerwatch\gui\customitems\listeners\weapons\RogueSword.class
+net\towerwatch\gui\customitems\bows\RangersLongbow.class
+net\towerwatch\gui\customitems\listeners\damageListener.class
+net\towerwatch\gui\customitems\listeners\weapons\GiantsHammer.class
+net\towerwatch\gui\customitems\listeners\weapons\VampireSword.class
+net\towerwatch\gui\customitems\listeners\weapons\GreedySword.class
+net\towerwatch\gui\customitems\listeners\weapons\CrimsonDagger.class

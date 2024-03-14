@@ -1,0 +1,10 @@
+name: customItems
+version: '1.0-SNAPSHOT'
+main: net.towerwatch.gui.customitems.CustomItems
+api-version: '1.20'
+commands:
+  ci:
+    aliases:
+      - customitem
+    usage: /ci <vampire|greedy|hasty|crimson|rogue|intelligence|ragnarok|ranger>
+    description: Gives Custom Items
